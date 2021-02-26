@@ -1,2 +1,3 @@
-# Lazer_Launcher
-Completely unnecessary Python+GTK script to update your osu!Lazer 
+# Update your osu!Lazer!
+
+Completely unnecessary. Built out of boredom and laziness 🙃
